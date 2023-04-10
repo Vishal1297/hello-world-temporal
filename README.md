@@ -9,7 +9,7 @@ Ensure you have Go 1.16 or later installed locally, and that you have Docker ins
 Clone this repository:
 
 ```bash
-git clone https://github.com/vishal1297/hello-world-project-temporal
+git clone https://github.com/vishal1297/hello-world-temporal
 ```
 
 [Install and run the Temporal Server](https://docs.temporal.io/docs/server/quick-install) using `docker compose`.
