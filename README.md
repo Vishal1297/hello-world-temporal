@@ -26,7 +26,7 @@ Run the worker and starter included in the project.
 
 ```bash
 go run worker/main.go
-go run start/main.go
+go run starter/main.go
 ```
 
 If you have [`nodemon`](https://nodemon.io/) installed, you can automatically reload when you change any files: `nodemon --watch './**/*.go' --signal SIGTERM --exec 'go' run worker/main.go`
